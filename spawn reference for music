@@ -1,0 +1,4 @@
+local character = script.Parent
+local spawnSound = character:WaitForChild(dinosaur-chirping-sounds) 
+
+spawnSound:Play()
